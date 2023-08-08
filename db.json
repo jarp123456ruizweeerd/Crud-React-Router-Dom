@@ -1,0 +1,28 @@
+{
+  "personas": [
+    {
+      "nombre": "Alberto",
+      "empresa": "Coelios",
+      "email": "j.alberto.rpz12x@gmail.com",
+      "telefono": "231-105-0090",
+      "notas": "df",
+      "id": 1
+    },
+    {
+      "nombre": "Danni",
+      "empresa": "Industrial",
+      "email": "KVJDFV@gmail.com",
+      "telefono": "231-105-0090",
+      "notas": "sdc",
+      "id": 2
+    },
+    {
+      "nombre": "Ale",
+      "empresa": "Coelios",
+      "email": "j.alberto.rpz12x@gmail.com",
+      "telefono": "4564584521",
+      "notas": "sdc",
+      "id": 3
+    }
+  ]
+}
